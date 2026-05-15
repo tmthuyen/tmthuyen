@@ -61,6 +61,18 @@ Software Developer • Third-year Student • Ho Chi Minh City, Vietnam
 
 ---
 
+
+## Github stats 📊
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=tmthuyen&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+</details>
+
+---
+
 ## 🔥 GitHub Streak
 
 <div align="center">
