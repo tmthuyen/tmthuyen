@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minh Thuyên</h1>
+<h1 align="center">Hi everyone👋, I'm Minh Thuyên</h1>
 
 <h3 align="center">
 Software Developer • Third-year Student • Ho Chi Minh City, Vietnam
@@ -12,7 +12,7 @@ Software Developer • Third-year Student • Ho Chi Minh City, Vietnam
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;Fullstack+Developer;Java+%7C+NodeJS+%7C+Go+%7C+ReactJS;Always+learning+new+technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Backend/Fullstack+Developer;Java+%7C+NodeJS+%7C+Python+%7C+Go+%7C+ReactJS;Always+learning+new+technologies" />
 
 </div>
 
@@ -55,20 +55,9 @@ Software Developer • Third-year Student • Ho Chi Minh City, Vietnam
 ### Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,rabbitmq,docker,git,github,linux" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmthuyen&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmthuyen&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+ 
 
 ---
 
@@ -84,43 +73,16 @@ Software Developer • Third-year Student • Ho Chi Minh City, Vietnam
 
 ## 📌 Featured Projects
 
-### 🛒 [E-Commerce System](https://github.com/tmthuyen/E-commerce-Shop_NodeJS)
-Fullstack e-commerce platform with authentication, catalog, cart, order processing, reviews and admin dashboard.
+<div align="center">
 
-**Tech Stack:** ExpressJS, ReactJS, MongoDB, WebSocket, Cloudinary
+| Project | Tech |
+|---|---|
+| 🛒  [E-Commerce System](https://github.com/tmthuyen/E-commerce-Shop_NodeJS)| NodeJS(Express) • MongoDB • ReactJS • WebSocket |
+| 🎬 [Bus Ticket Booking System](https://github.com/tmthuyen/Bus-Ticket-Booking_Micro) | FastAPI • MySQL • RabbitMQ • ReactJS |
+| 📚 [MiniApp Vocabulary](https://github.com/tmthuyen/miniapp-vocabulary) | NextJS • Supabase |
 
-**Highlights:**
-- JWT Authentication & Authorization 
-- RESTful APIs
-- Responsive UI
+</div>
 
----
-
-### 🎬 [Bus Ticket Booking System](https://github.com/tmthuyen/Bus-Ticket-Booking_Micro)
-Online ticket booking system supporting realtime seat reservation and asynchronous processing.
-
-**Tech Stack:** FastAPI, RabbitMQ, ReactJS
-
-**Highlights:**
-- Event-driven architecture with RabbitMQ
-- Seat booking workflow
-- Payment/order processing
-- REST API integration 
-
----
-
-### 📚 [MiniApp Vocabulary](https://github.com/tmthuyen/miniapp-vocabulary)
-Vocabulary learning mini application built to explore fullstack architecture using NextJS.
-
-**Tech Stack:** NextJS, Supabase
-
-**Highlights:**
-- Authentication with Supabase
-- Vocabulary management
-- Responsive design
-- Server/Client component architecture 
-
----
 
 ## 📈 Contribution Graph
 
@@ -135,7 +97,7 @@ Vocabulary learning mini application built to explore fullstack architecture usi
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/thuyentm20/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
